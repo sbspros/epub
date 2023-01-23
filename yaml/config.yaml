@@ -1,0 +1,17 @@
+AppInfo:
+  version: 1.0
+  appName: "Scan for Books"
+  status:  "Init Dev"  
+
+Logging:
+  fileName: "logs/logfile.log"
+  logLevel: 40
+
+SymbolName:
+  - "SOLUSDT"
+  - "ADAUSDT"
+
+DataBase:
+  Schema: "db/scan-books.db"
+BookSearch: /run/media/richard/Big-Drive/richard
+NewLibrary: /home/richard/library
